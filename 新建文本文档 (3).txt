@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>东莞市为安检测设备有限公司 - 安检机/异物检测机</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: "微软雅黑", sans-serif; }
+        body { line-height: 1.6; color: #333; background: #f8f9fa; }
+        .container { max-width: 1000px; margin: 0 auto; padding: 0 20px; }
+        header { background: #1a365d; color: white; padding: 30px 0; text-align: center; }
+        h1 { font-size: 28px; margin-bottom: 10px; }
+        .tagline { font-size: 16px; opacity: 0.9; }
+        section { padding: 40px 0; }
+        h2 { color: #1a365d; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #2c5282; }
+        .product-card { background: white; padding: 25px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); margin-bottom: 20px; }
+        .product-img { width: 100%; max-width: 400px; height: auto; border-radius: 4px; margin: 15px 0; }
+        .contact-box { background: #2c5282; color: white; padding: 30px; border-radius: 8px; text-align: center; }
+        .contact-info { margin: 15px 0; font-size: 18px; }
+        footer { background: #1a365d; color: white; text-align: center; padding: 20px 0; margin-top: 40px; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>东莞市为安检测设备有限公司</h1>
+            <p class="tagline">专业安检机/异物检测机供应商 | 质好价平，人无我有，人有我优</p>
+        </div>
+    </header>
+
+    <section class="intro">
+        <div class="container">
+            <h2>公司简介</h2>
+            <p>东莞市为安检测设备有限公司，专注于X光异物检测机、安检机的研发、生产与销售。产品广泛应用于食品、医药、服装、物流、工厂等行业，帮助客户快速检测金属、玻璃、石头等异物，保障产品安全。</p>
+        </div>
+    </section>
+
+    <section class="products">
+        <div class="container">
+            <h2>核心产品</h2>
+            <div class="product-card">
+                <h3>X光异物检测机 为安80S</h3>
+                <img src="这里替换成你的产品图片链接" alt="X光异物检测机" class="product-img">
+                <p>• 高灵敏度检测：可识别0.3mm金属/玻璃异物</p>
+                <p>• 适用场景：食品、医药、塑胶等行业的在线检测</p>
+                <p>• 优势：稳定耐用、误报率低、性价比高</p>
+            </div>
+            <div class="product-card">
+                <h3>金属探测安检门 ETW-600D</h3>
+                <img src="这里替换成你的安检门图片链接" alt="安检门" class="product-img">
+                <p>• 多区位探测：精准定位金属物品位置</p>
+                <p>• 适用场景：工厂、展会、车站等场所的人员安检</p>
+                <p>• 优势：抗干扰强、操作简单、通过率高</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact">
+        <div class="container">
+            <div class="contact-box">
+                <h2>联系我们</h2>
+                <div class="contact-info">📞 电话：这里填你的手机号</div>
+                <div class="contact-info">💬 微信：这里填你的微信号（可放二维码图片）</div>
+                <div class="contact-info">📍 地址：东莞市XX镇XX工业区</div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>© 2026 东莞市为安检测设备有限公司 | 专业安检设备供应商</p>
+        </div>
+    </footer>
+</body>
+</html>
